@@ -1,2 +1,2 @@
 # Coding Platforms-01
-Solutions to various coding problems I solved on LeetCode
+Solutions to various problems I solved on LeetCode.....
